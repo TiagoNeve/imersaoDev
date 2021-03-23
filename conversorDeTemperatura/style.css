@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31571c6a-82bf-4bb8-86a8-ff68b46b617b/d7puco1-ab32a6ff-7763-4227-b205-440349d8b4aa.jpg/v1/fill/w_1024,h_1821,q_75,strp/termometro__by_hangapicture_d7puco1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xODIxIiwicGF0aCI6IlwvZlwvMzE1NzFjNmEtODJiZi00YmI4LTg2YTgtZmY2OGI0NmI2MTdiXC9kN3B1Y28xLWFiMzJhNmZmLTc3NjMtNDIyNy1iMjA1LTQ0MDM0OWQ4YjRhYS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mXTUeC_W2EZtpJb0eWBSpio42sgsBYYS94bL3CH1140');
+    background-color: #000000;
+    background-size: 60vh 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+
+  .button {
+    margin-bottom: 5px;
+  }
